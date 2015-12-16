@@ -6,6 +6,8 @@ Some people may want to create some algorithm to create lottery numbers, based
 on historical results, so, this module just outputs a `json` file containing
 the previous lottery numbers.
 
+<img align="right" src="img.png">
+
 ## How to use
 
 First, clone the repo and install the dependencies:
