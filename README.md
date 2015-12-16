@@ -2,11 +2,11 @@
 
 > [Brazilian lottery](http://www.loterias.caixa.gov.br/wps/portal/loterias/landing/megasena) scraper
 
+<img align="right" src="img.png">
+
 Some people may want to create some algorithm to create lottery numbers, based
 on historical results, so, this module just outputs a `json` file containing
 the previous lottery numbers.
-
-<img align="right" src="img.png">
 
 ## How to use
 
