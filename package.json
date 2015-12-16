@@ -20,7 +20,6 @@
   "homepage": "https://github.com/wmartins/mega-sena-history#readme",
   "dependencies": {
     "cheerio": "^0.19.0",
-    "request": "^2.67.0",
     "unzip": "^0.1.11"
   }
 }
