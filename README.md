@@ -24,7 +24,7 @@ npm start
 
 This will output `out.json` file, that can be used in any way you want.
 
-## Little server
+## Small server
 
 If you want, we have created a simple server, to serve this `json` output.
 To get the server up and running, just type:
